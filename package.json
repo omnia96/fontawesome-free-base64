@@ -22,6 +22,5 @@
     "dependencies": {},
     "version": "5.12.1",
     "name": "@omnia96/fontawesome-free-base64",
-    "style": "css/fontawesome.css",
-    "license": "(CC-BY-4.0 AND OFL-1.1 AND MIT)",
+    "style": "css/fontawesome.css"
   }
