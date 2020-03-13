@@ -1,0 +1,27 @@
+{
+    "description": "The iconic CSS framework",
+    "keywords": [
+      "font",
+      "awesome",
+      "fontawesome",
+      "icon",
+      "bootstrap"
+    ],
+    "homepage": "https://fontawesome.com",
+    "author": {
+      "name": "omnia96",
+      "email": "dongjun1997@outlook.com"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/omnia96/fontawesome-free-base64.git"
+    },
+    "engines": {
+      "node": ">=6"
+    },
+    "dependencies": {},
+    "version": "5.12.1",
+    "name": "@omnia96/fontawesome-free-base64",
+    "style": "css/fontawesome.css",
+    "license": "(CC-BY-4.0 AND OFL-1.1 AND MIT)",
+  }
